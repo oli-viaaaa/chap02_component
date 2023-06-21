@@ -15,6 +15,7 @@ import FormExample2 from './component/FormExample2';
 import UserForm from './component/UserForm';
 
 export default function App() {
+  // 프롭, 조건부렌더링, 리스트 작성
   return (
     <div className={styles.box}>
       <h1>App</h1>
